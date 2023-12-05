@@ -1,11 +1,11 @@
-body {
+.btext {
   color: black;
-  background-color: red;
+  background-color: white;
 }
 
-p {
-  color: black;
-  background-color: red;
+.bwhite {
+  color: white;
+  background-color: black;
 }
 
 /* unvisited link */
