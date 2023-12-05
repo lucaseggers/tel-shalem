@@ -13,13 +13,17 @@ a:link {
   color: blue;
 }
 
+.twhite a:link {
+  color: aqua;
+}
+
 /* visited link */
 a:visited {
   color: purple;
 }
 
 .twhite a:visited {
-  color: pink;
+  color: fuchsia;
 }
 
 /* mouse over link */
@@ -27,7 +31,15 @@ a:hover {
   color: blue;
 }
 
+.twhite a:hover {
+  color: aqua;
+}
+
 /* selected link */
 a:active {
   color: blue;
+}
+
+.twhite a:hover {
+  color: aqua;
 }
