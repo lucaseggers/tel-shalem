@@ -8,11 +8,6 @@ p {
   background-color: black;
 }
 
-center {
-  color: white;
-  background-color: black;
-}
-
 /* unvisited link */
 a:link {
   color: blue;
