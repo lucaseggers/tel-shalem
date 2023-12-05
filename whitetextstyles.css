@@ -1,0 +1,29 @@
+body {
+  color: white;
+  background-color: black;
+}
+
+p {
+  color: white;
+  background-color: black;
+}
+
+/* unvisited link */
+a:link {
+  color: #3333FF;
+}
+
+/* visited link */
+a:visited {
+  color: #BC8BE9;
+}
+
+/* mouse over link */
+a:hover {
+  color: #3333FF;
+}
+
+/* selected link */
+a:active {
+  color: #3333FF;
+}
