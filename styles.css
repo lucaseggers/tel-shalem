@@ -18,6 +18,10 @@ a:visited {
   color: purple;
 }
 
+.twhite a:visited {
+  color: pink;
+}
+
 /* mouse over link */
 a:hover {
   color: blue;
