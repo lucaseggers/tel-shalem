@@ -8,6 +8,10 @@
   background-color: black;
 }
 
+.vm {
+  vertical-align: middle; 
+} 
+
 /* unvisited link */
 a:link {
   color: blue;
