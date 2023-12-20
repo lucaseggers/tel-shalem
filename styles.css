@@ -43,7 +43,3 @@ a:hover {
 a:active {
   color: blue;
 }
-
-.twhite a:hover {
-  color: aqua;
-}
