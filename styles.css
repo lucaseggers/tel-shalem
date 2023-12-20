@@ -9,6 +9,7 @@
 }
 
 .vm {
+  display: table-cell;
   vertical-align: middle; 
 } 
 
@@ -18,7 +19,7 @@ a:link {
 }
 
 .twhite a:link {
-  color: blue;
+  color: LightCyan;
 }
 
 /* visited link */
@@ -27,7 +28,7 @@ a:visited {
 }
 
 .twhite a:visited {
-  color: purple;
+  color: Lavender;
 }
 
 /* mouse over link */
