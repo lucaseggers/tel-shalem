@@ -32,14 +32,14 @@ a:visited {
   color: Lavender;
 }
 
-/* mouse over link */
+/*  mouse over link 
 a:hover {
   color: blue;
 }
 
 .twhite a:hover {
   color: blue;
-}
+} */
 
 /* selected link */
 a:active {
